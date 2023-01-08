@@ -17,7 +17,6 @@ class MainViewController: UIViewController {
         super.viewDidLoad()
     
     }
-
     @IBAction func unwindToMainVC(segue: UIStoryboardSegue) {
         MainLabel.text = "Hello \(name) points is \(score)"
     }
