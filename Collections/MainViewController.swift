@@ -3,7 +3,7 @@
 //  Collections
 //
 //  Created by Nic-Alexander Strutz on 06.01.23.
-// Thats me!!!
+// Thats me!!
 
 import UIKit
 

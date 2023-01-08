@@ -28,7 +28,7 @@ class AddViewController: UIViewController {
     }
     
     @IBAction func AddDone(_ sender: UIButton) {
-        //performSegue(withIdentifier: "DoneButton", sender: self)
+        //performSegue(withIdentifier: "DoneButton", sender: self)  do this to force segues
     }
     
 
